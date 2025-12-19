@@ -1,4 +1,5 @@
 # SecondTake
+Rewind your personal film and tv series rankings using pairwise comparisons
 
 ## Project Vision
 Over time, personal film and tv series rankings and ratings tend to lose their meaning.
