@@ -11,12 +11,14 @@ This project aims to help users re-evaluate and organize previously watched titl
 Comparing two similar titles at a time allows for more precise judgment and helps naturally rebalance ratings across the entire library.
 
 ## Requirements
-| ID  | Title                        | User Story                                                                                                                   |
-|-----|------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| R01 | Compare two titles           | As a user, I want to compare two titles and choose the one I prefer, so that I can express my preference between them.       |
-| R02 | Skip comparison              | As a user, I want to skip the current comparison without making a choice, so that I am not forced to decide when I'm unsure. |
-| R03 | Mark title as forgotten      | As a user, I want to mark one of the compared titles as forgotten, so that it won't appear in further comparisons.           |
-| R04 | Mark comparison as forgotten | As a user, I want to mark both compared titles as forgotten, so that neither of them appears in further comparisons.         |
-| R05 | Start session by genre       | As a user, I want to start a new comparing session by genre, so that I only compare titles from a genre I'm interested in.   |
-| R06 | Start session by franchise   | As a user, I want to start a new comparing session by franchise, so that I can easier rank titles within a franchise.        |
-
+| ID  | Title                            | User Story                                                                                                                   |
+|-----|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| R01 | Compare two titles               | As a user, I want to compare two titles and choose the one I prefer, so that I can express my preference between them.       |
+| R02 | Skip comparison                  | As a user, I want to skip the current comparison without making a choice, so that I am not forced to decide when I'm unsure. |
+| R03 | Mark title as forgotten          | As a user, I want to mark one of the compared titles as forgotten, so that it won't appear in further comparisons.           |
+| R04 | Mark comparison as forgotten     | As a user, I want to mark both compared titles as forgotten, so that neither of them appears in further comparisons.         |
+| R05 | Start session by genre           | As a user, I want to start a new comparing session by genre, so that I only compare titles from a genre I'm interested in.   |
+| R06 | Start session by franchise       | As a user, I want to start a new comparing session by franchise, so that I can easier rank titles within a franchise.        |
+| R07 | View forgotten titles            | As a user, I want to view forgotten titles, so that I can see which titles to rewatch.                                       |
+| R08 | Delete forgotten titles          | As a user, I want to delete titles from the forgotten list, in case I don't intend to rewatch it                             |
+| R09 | Queue forgotten title to rewatch | As a user, I want to add a forgotten title to a rewatch queue, so that I can plan future rewatches.                          |
