@@ -22,4 +22,5 @@ Comparing two similar titles at a time allows for more precise judgment and help
 | R07 | View forgotten titles            | As a user, I want to view forgotten titles, so that I can see which titles to rewatch.                                       |
 | R08 | Delete forgotten titles          | As a user, I want to delete titles from the forgotten list, in case I don't intend to rewatch it                             |
 | R09 | Queue forgotten title to rewatch | As a user, I want to add a forgotten title to a rewatch queue, so that I can plan future rewatches.                          |
+| R10 | Requeue skipped titles           | As a user, I want the skipped titles to be requeued with a different match, so that I can compare them.                      |
 
