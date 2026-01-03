@@ -1,0 +1,9 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/dotnet:10.0",
+	"workspaceFolder": "/secondtake",
+	"remoteUser": "root",
+	"runArgs": [
+		"--env-file", "${localWorkspaceFolder}/.env"
+	]
+
+}
